@@ -288,26 +288,26 @@ RETURN DIVIDE(Cancelled, Total, 0)
 
 ## 📁 Project Structure
 
-```
 Hospital-Operations-Bed-Utilization-Optimization/
 
 ├── README.md
 
-├── Hospital_Bed_Utilization.csv
+├── hospital dashboard.pbix
 
-├── Hospital_Operations_Dashboard.pbix
+├── Bed Utilization Analysi.sql
+
+├── ER Wait Time & Patient Flow Bottleneck Analysis.sql
+
+├── Surgery Cancellation & Delay Analysis.sql
 
 ├── Executive Overview.png
 
-├── Bed Occupancy Analysis.png
+├── Bed Utilization Analysis.png
 
-├── Revenue & Resource Insights.png
+├── ER Wait Times & Patient Flow.png
 
-├── SQL Queries.sql
+└── Surgery Performance & Recommendations.png
 
-└── Project Documentation.pdf
-
-```
 
 ---
 
@@ -393,7 +393,7 @@ python hospital_data_generator.py
 - [x] Built 4-page interactive dashboard with 29 visuals
 - [x] Reduced analysis time by 85%
 - [x] Provided 12 actionable recommendations
-- [x] Achieved 4.3/5 portfolio project rating
+
 
 ---
 

@@ -294,7 +294,7 @@ Hospital-Operations-Bed-Utilization-Optimization/
 
 ├── hospital dashboard.pbix
 
-├── Bed Utilization Analysi.sql
+├── Bed Utilization Analysis.sql
 
 ├── ER Wait Time & Patient Flow Bottleneck Analysis.sql
 

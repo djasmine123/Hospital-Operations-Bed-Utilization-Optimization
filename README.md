@@ -289,25 +289,24 @@ RETURN DIVIDE(Cancelled, Total, 0)
 ## 📁 Project Structure
 
 ```
-Hospital-Operations-Optimization/
-│
-├── README.md                          # Project documentation
-├── SQL_Scripts/                       # SQL query files
-│   ├── 01_Create_Database.sql
-│   ├── 02_Import_Data.sql
-│   ├── 03_Bed_Utilization.sql
-│   ├── 04_ER_Wait_Time.sql
-│   ├── 05_Surgery_Analysis.sql
-│   └── 06_Summary_Queries.sql
-│
-├── Data/                              # Data files
-│   ├── hospital_data_generator.py    # Python script to generate data
-│   └── README.md                     # Data documentation
-│
-├── Documentation/
-│   └── Hospital_Operations_Complete_Documentation.docx
-│
-└── .gitignore
+Hospital-Operations-Bed-Utilization-Optimization/
+
+├── README.md
+
+├── Hospital_Bed_Utilization.csv
+
+├── Hospital_Operations_Dashboard.pbix
+
+├── Executive Overview.png
+
+├── Bed Occupancy Analysis.png
+
+├── Revenue & Resource Insights.png
+
+├── SQL Queries.sql
+
+└── Project Documentation.pdf
+
 ```
 
 ---

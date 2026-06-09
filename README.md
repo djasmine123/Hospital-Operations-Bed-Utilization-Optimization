@@ -400,7 +400,7 @@ python hospital_data_generator.py
 
 ## 👨‍💼 Author
 
-**Rakesh Y**  
+**JASMINE D**  
 *Data Science Student | Aspiring Data Analyst*
 
 - 📧 Email: djasmine1610@gmail.com
